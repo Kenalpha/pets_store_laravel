@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+body{font-family: 'Montserrat', sans-serif; }
+
+.navbar-custom { 
+	/*background:rgba(0,0,0,0.5) !important;   /*making a navbar transparent */*/
+	background-color: #2980b9 !important;
+}
+
+.nav-link, .color{
+	color: white !important;
+}
